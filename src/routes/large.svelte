@@ -4,4 +4,4 @@
 
 <LargeComponent />
 
-<p><a href='/' sveltekit:prefetch>Go back home</a></p>
+<p><a href="/" sveltekit:prefetch>Go back home</a></p>
